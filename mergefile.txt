@@ -1,14 +1,2 @@
-this is merge file.
-this is new line.
-
-new line 
-
-this is merge file.
-this is new line.
-
-new line 
-
-this is merge file.
-this is new line.
-
-new line 
+this is new line .
+this is conflict

@@ -20,3 +20,6 @@ lines for merge
 another line for conflict
 
 lines of conflict
+
+lines added for conflict
+

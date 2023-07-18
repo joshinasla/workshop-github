@@ -4,7 +4,12 @@ another line added from github for command
 
 this is new text here
 
+
+this is new lineeeeee in new branch
+line for conflict
+
 this is new text here
 
 
 this is new lineeeeee in new branch
+

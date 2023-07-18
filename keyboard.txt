@@ -17,4 +17,6 @@ merge branch with protectionmerge branch with protection
 merge branch with protection
 
 changing file for merge protection
+changing file for merge protection
+changing file for merge protection
 

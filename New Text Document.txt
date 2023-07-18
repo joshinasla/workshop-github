@@ -8,21 +8,7 @@ fdsf
 dsfds
 
 
-sdf
-dsfds
-fdsf
-dsfds
-fdsf
-dsfds
-f
-
-lines for merge
-another line for conflict
-
-lines of conflict
-
-
-lines added for conflict
+few lines added
 
 
 added lines in master for conflict

@@ -17,3 +17,8 @@ dsfds
 f
 
 lines for merge
+another line for conflict
+
+lines of conflict
+
+merge branch with protection

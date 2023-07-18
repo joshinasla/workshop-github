@@ -20,3 +20,5 @@ lines for merge
 another line for conflict
 
 lines of conflict
+
+added lines in master for conflict

@@ -20,3 +20,4 @@ another line for conflict
 
 lines of conflict
 
+merge branch with protection

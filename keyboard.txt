@@ -12,6 +12,9 @@ this is new text here
 
 
 this is new lineeeeee in new branch
+merge branch with protection
+merge branch with protectionmerge branch with protection
+merge branch with protection
 
 changing file for merge protection
 

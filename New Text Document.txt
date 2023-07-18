@@ -21,5 +21,9 @@ another line for conflict
 
 lines of conflict
 
+
 lines added for conflict
+
+
+added lines in master for conflict
 

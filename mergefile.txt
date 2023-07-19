@@ -1,2 +1,3 @@
 this is new line .
 this is conflict
+line added
